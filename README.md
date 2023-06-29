@@ -6,7 +6,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCANHM643NsZGwuYvUcyN-yQ">
 </p>
 
-## language and tecnologies
+## Language and tecnologies
 <img src="https://img.shields.io/badge/-GLSL-000000?logo=webGL&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
