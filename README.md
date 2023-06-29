@@ -31,6 +31,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-lomarco-2a496b5b/) 👨🏻‍💻
 - Watch my [YouTube channel](https://www.youtube.com/@gianlucalomarco) 📹
 - Read on my [Medium](https://medium.com/@gianluca.lomarco)
+- Donate on [Tipeee](https://it.tipeee.com/gianluca-lomarco)
 
 
 <!--
