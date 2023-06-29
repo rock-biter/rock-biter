@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer and since 2023 I have a you tube channel where I talk about 3D development, three.js, shaders, webGL and mathematics for game developers. 
+I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer and since 2023 I have a you tube channel where I talk about 3D development, three.js, shaders, webGL and mathematics for game developers. [subscribe now!](https://www.youtube.com/@gianlucalomarco?sub_confirmation=1) 
 <p>
-  [subscribe now!](https://www.youtube.com/@gianlucalomarco?sub_confirmation=1)
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCANHM643NsZGwuYvUcyN-yQ">
 </p>
 
