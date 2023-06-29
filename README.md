@@ -15,6 +15,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vite-A94DFE?logo=vite&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vue-42b883?logo=vuedotjs&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Webpack-5299C8?logo=webpack&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Wordpress-000000?logo=wordpress&logoColor=white&style=for-the-badge">
 
 ## Other
