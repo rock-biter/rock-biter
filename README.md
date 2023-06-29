@@ -27,7 +27,8 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 ## How to reach me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-lomarco-2a496b5b/) 👨🏻‍💻
 - Watch my [YouTube channel](https://www.youtube.com/@gianlucalomarco) 📹
-- 
+
+
 <!--
 **rock-biter/rock-biter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
