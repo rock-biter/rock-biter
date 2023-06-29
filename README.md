@@ -7,20 +7,19 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 </p>
 
 ## language and tecnologies
-- GLSL
-- JavaScript
-- Next
-- Node.js
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge">
-- Tailwind
-- Three.js
-- Vue
+<img src="https://img.shields.io/badge/-GLSL-000000?logo=webGL&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwind&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Three.js-000000?logo=three&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vue-42b883?logo=vuedotjs&logoColor=white&style=for-the-badge">
 
 ## Other
-- Firebase
-- Laravel
-- MongoDB
-- MySQL
+
+<img src="https://img.shields.io/badge/-Firebase-1A73E8?logo=firebase&logoColor=FFCC30&style=for-the-badge"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-MongoDB-13AA52?logo=mongodb&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=black&style=for-the-badge">
+
 
 ## How to reach me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-lomarco-2a496b5b/) 👨🏻‍💻
