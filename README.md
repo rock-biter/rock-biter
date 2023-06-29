@@ -11,7 +11,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=black&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwind&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Tailwind-38BDF8?logo=tailwind-css&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vite-A94DFE?logo=vite&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vue-42b883?logo=vuedotjs&logoColor=white&style=for-the-badge">
