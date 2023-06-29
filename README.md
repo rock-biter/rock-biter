@@ -11,7 +11,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 - JavaScript
 - Next
 - Node.js
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 - Tailwind
 - Three.js
 - Vue
