@@ -20,8 +20,8 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 
 ## Other
 
-<img src="https://img.shields.io/badge/-Firebase-1A73E8?logo=firebase&logoColor=FFCC30&style=for-the-badge"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-MongoDB-13AA52?logo=mongodb&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/-GraphQL-DE33A6?logo=graphql&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Firebase-1A73E8?logo=firebase&logoColor=FFCC30&style=for-the-badge"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/-MongoDB-13AA52?logo=mongodb&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-GraphQL-DE33A6?logo=graphql&logoColor=white&style=for-the-badge">
 
 
 ## How to reach me
