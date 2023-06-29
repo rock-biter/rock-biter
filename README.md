@@ -5,9 +5,11 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 <p>
   <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCANHM643NsZGwuYvUcyN-yQ">
 </p>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 
 ## Language and tecnologies
 <img src="https://img.shields.io/badge/-GLSL-000000?logo=webGL&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/-React.Js-61DAFB?logo=react&logoColor=black&style=for-the-badge">
@@ -28,6 +30,7 @@ I am [Gianluca](https://www.youtube.com/@gianlucalomarco), a creative developer 
 ## How to reach me
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-lomarco-2a496b5b/) 👨🏻‍💻
 - Watch my [YouTube channel](https://www.youtube.com/@gianlucalomarco) 📹
+- Read on my [Medium](https://medium.com/@gianluca.lomarco)
 
 
 <!--
